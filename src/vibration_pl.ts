@@ -11,5 +11,21 @@
         <source>Vibration setting</source>
         <translation>Ustawienia wibracji</translation>
     </message>
+    <message id="vibration_on">
+        <source>Always</source>
+        <translation>Zawsze</translation>
+    </message>
+    <message id="vibration_silent">
+        <source>Only when silent</source>
+        <translation>Tylko w trybie Cisza</translation>
+    </message>
+    <message id="vibration_general">
+        <source>Only when sounds on</source>
+        <translation>Tylko przy włączonym dzwięku</translation>
+    </message>
+    <message id="vibration_off">
+        <source>Never</source>
+        <translation>Nigdy</translation>
+    </message>
 </context>
 </TS>

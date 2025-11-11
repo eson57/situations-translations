@@ -23,6 +23,22 @@
         <source>Location condition using the best available positioning method</source>
         <translation>Warunki lokalizacji za pomocą najlepszych dostępnych metod lokalizacji</translation>
     </message>
+    <message id="location_interval">
+        <source>Update interval</source>
+        <translation type="unfinished">Update interval</translation>
+    </message>
+    <message id="location_get_current">
+        <source>Get current location</source>
+        <translation type="unfinished">Get current location</translation>
+    </message>
+    <message id="location_interval_minutes" numerus="yes">
+        <source>%n minute(s)</source>
+        <translation type="unfinished">
+            <numerusform>%n minute</numerusform>
+            <numerusform>%n minutes</numerusform>
+            <numerusform>%n minutes</numerusform>
+        </translation>
+    </message>
     <message id="location_disabled">
         <source>Please enable Location from system settings</source>
         <translation>Usługa lokalizacji musi być włączona</translation>

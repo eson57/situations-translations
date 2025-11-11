@@ -11,5 +11,21 @@
         <source>Vibration setting</source>
         <translation>Vibrationsinställning</translation>
     </message>
+    <message id="vibration_on">
+        <source>Always</source>
+        <translation>Alltid</translation>
+    </message>
+    <message id="vibration_silent">
+        <source>Only when silent</source>
+        <translation>Endast om ljudet är av</translation>
+    </message>
+    <message id="vibration_general">
+        <source>Only when sounds on</source>
+        <translation>Endast om ljudet är på</translation>
+    </message>
+    <message id="vibration_off">
+        <source>Never</source>
+        <translation>Aldrig</translation>
+    </message>
 </context>
 </TS>

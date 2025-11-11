@@ -11,5 +11,21 @@
         <source>Vibration setting</source>
         <translation>Värinäasetus</translation>
     </message>
+    <message id="vibration_on">
+        <source>Always</source>
+        <translation>Aina</translation>
+    </message>
+    <message id="vibration_silent">
+        <source>Only when silent</source>
+        <translation>Vain kun äänettömänä</translation>
+    </message>
+    <message id="vibration_general">
+        <source>Only when sounds on</source>
+        <translation>Vain kun äänet käytössä</translation>
+    </message>
+    <message id="vibration_off">
+        <source>Never</source>
+        <translation>Ei koskaan</translation>
+    </message>
 </context>
 </TS>

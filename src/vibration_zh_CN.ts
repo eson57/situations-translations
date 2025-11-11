@@ -11,5 +11,21 @@
         <source>Vibration setting</source>
         <translation>震动设置</translation>
     </message>
+    <message id="vibration_on">
+        <source>Always</source>
+        <translation>总是</translation>
+    </message>
+    <message id="vibration_silent">
+        <source>Only when silent</source>
+        <translation>仅当静音时</translation>
+    </message>
+    <message id="vibration_general">
+        <source>Only when sounds on</source>
+        <translation>仅当声音开启时</translation>
+    </message>
+    <message id="vibration_off">
+        <source>Never</source>
+        <translation>永不</translation>
+    </message>
 </context>
 </TS>

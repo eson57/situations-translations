@@ -481,5 +481,25 @@ sovelluksen!</translation>
         <source>Filter (ms)</source>
         <translation>Suodatus (ms)</translation>
     </message>
+    <message id="note">
+        <source>Note!</source>
+        <translation>Huom!</translation>
+    </message>
+    <message id="exit_description">
+        <source>This will exit application UI.</source>
+        <translation>Käyttöliittymä suljetaan.</translation>
+    </message>
+    <message id="background_service">
+        <source>Background service</source>
+        <translation>Taustasovellus</translation>
+    </message>
+    <message id="daemon_install">
+        <source>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue. Restart the application or device if needed.</source>
+        <translation>Taustasovelluksen käynnistys tulee asentaa erikseen. Ole hyvä ja salli ensin ei-luotettujen ohjelmistojen asentaminen laitteen asetuksista ja sitten jatka asennukseen. Tarvittaessa käynnistä sovellus tai laite uudelleen.</translation>
+    </message>
+    <message id="daemon_install_warning">
+        <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
+        <translation>VAROITUS: Taustasovellusta ajetaan pääkäyttäjän oikeuksilla. Jatka omalla vastuulla!</translation>
+    </message>
 </context>
 </TS>

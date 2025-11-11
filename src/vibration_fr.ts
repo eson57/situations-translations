@@ -11,5 +11,21 @@
         <source>Vibration setting</source>
         <translation type="unfinished">Vibration setting</translation>
     </message>
+    <message id="vibration_on">
+        <source>Always</source>
+        <translation type="unfinished">Always</translation>
+    </message>
+    <message id="vibration_silent">
+        <source>Only when silent</source>
+        <translation type="unfinished">Only when silent</translation>
+    </message>
+    <message id="vibration_general">
+        <source>Only when sounds on</source>
+        <translation type="unfinished">Only when sounds on</translation>
+    </message>
+    <message id="vibration_off">
+        <source>Never</source>
+        <translation type="unfinished">Never</translation>
+    </message>
 </context>
 </TS>

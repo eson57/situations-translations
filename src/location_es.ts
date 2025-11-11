@@ -23,6 +23,21 @@
         <source>Location condition using the best available positioning method</source>
         <translation>Condición de ubicación usando el mejor método de posicionamiento disponible</translation>
     </message>
+    <message id="location_interval">
+        <source>Update interval</source>
+        <translation>Intervalo de actualización</translation>
+    </message>
+    <message id="location_get_current">
+        <source>Get current location</source>
+        <translation>Obtener ubicación actual</translation>
+    </message>
+    <message id="location_interval_minutes" numerus="yes">
+        <source>%n minute(s)</source>
+        <translation>
+            <numerusform>%n minuto</numerusform>
+            <numerusform>%n minutos</numerusform>
+        </translation>
+    </message>
     <message id="location_disabled">
         <source>Please enable Location from system settings</source>
         <translation>Por favor, active ubicación en ajustes del sistema</translation>

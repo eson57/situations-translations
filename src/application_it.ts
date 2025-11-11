@@ -481,5 +481,25 @@ valuta l&apos;app!</translation>
         <source>Filter (ms)</source>
         <translation type="unfinished">Filter (ms)</translation>
     </message>
+    <message id="note">
+        <source>Note!</source>
+        <translation type="unfinished">Note!</translation>
+    </message>
+    <message id="exit_description">
+        <source>This will exit application UI.</source>
+        <translation type="unfinished">This will exit application UI.</translation>
+    </message>
+    <message id="background_service">
+        <source>Background service</source>
+        <translation type="unfinished">Background service</translation>
+    </message>
+    <message id="daemon_install">
+        <source>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue. Restart the application or device if needed.</source>
+        <translation type="unfinished">Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue. Restart the application or device if needed.</translation>
+    </message>
+    <message id="daemon_install_warning">
+        <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
+        <translation type="unfinished">WARNING: Background service will run with root privileges. Proceed at your own risk!</translation>
+    </message>
 </context>
 </TS>
