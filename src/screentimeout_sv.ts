@@ -9,7 +9,7 @@
     </message>
     <message id="screentimeout_description">
         <source>Screen timeout setting</source>
-        <translation>Skärmsläckar-timeout</translation>
+        <translation>Skärmsläckarinställning</translation>
     </message>
     <message id="screentimeout_seconds" numerus="yes">
         <source>%n second(s)</source>

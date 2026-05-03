@@ -5,11 +5,11 @@
     <name></name>
     <message id="flightmode_name">
         <source>Airplane Mode</source>
-        <translation>Flygplansläge</translation>
+        <translation>Flygläge</translation>
     </message>
     <message id="flightmode_description">
         <source>Airplane mode setting</source>
-        <translation>Flygplansläge på/av</translation>
+        <translation>Flygläge På/Av</translation>
     </message>
 </context>
 </TS>

@@ -9,7 +9,7 @@
     </message>
     <message id="brightness_description">
         <source>Display brightness setting</source>
-        <translation type="unfinished">Display brightness setting</translation>
+        <translation>Skärmens ljusinställning</translation>
     </message>
     <message id="automatic">
         <source>Automatic</source>

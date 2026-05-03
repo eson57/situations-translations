@@ -9,7 +9,7 @@
     </message>
     <message id="mobiledata_description">
         <source>Mobile data setting</source>
-        <translation>Mobildata på/av</translation>
+        <translation>Mobildata-inställning</translation>
     </message>
 </context>
 </TS>

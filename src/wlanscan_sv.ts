@@ -9,7 +9,7 @@
     </message>
     <message id="wlanscan_description">
         <source>Simple search for available WiFi networks</source>
-        <translation type="unfinished">Simple search for available WiFi networks</translation>
+        <translation>Enkel sökning efter tillgängliga WiFi-nätverk</translation>
     </message>
     <message id="wlanscanpro_name">
         <source>WiFi Networks Pro</source>
@@ -17,7 +17,7 @@
     </message>
     <message id="wlanscanpro_description">
         <source>Advanced search for available WiFi networks with address based search and scan interval selection</source>
-        <translation type="unfinished">Advanced search for available WiFi networks with address based search and scan interval selection</translation>
+        <translation>Avancerad sökning efter tillgängliga WiFi-nätverk med adressbaserad sökning och val av skanningsintervall</translation>
     </message>
     <message id="wlanscan_connection_name">
         <source>Network name</source>
@@ -70,7 +70,7 @@
     </message>
     <message id="wlanscan_method_any">
         <source>Any connection</source>
-        <translation>Vilken anslutning som helst</translation>
+        <translation>Alla anslutningar</translation>
     </message>
 </context>
 </TS>

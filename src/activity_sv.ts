@@ -9,11 +9,11 @@
     </message>
     <message id="activity_description">
         <source>Change situation based on current activity (like walking, cycling or driving).</source>
-        <translation>Försök att identifiera aktuell aktivitet (som att gå, cykla eller köra).</translation>
+        <translation>Ändra situtionen baserat på aktuell aktivitet (som att gå, cykla eller köra).</translation>
     </message>
     <message id="activity_invehicle">
         <source>In a vehicle</source>
-        <translation>I en bil</translation>
+        <translation>I ett fordon</translation>
     </message>
     <message id="activity_onbicycle">
         <source>On a bicycle</source>

@@ -9,7 +9,7 @@
     </message>
     <message id="wallpaper_description">
         <source>System wallpaper setting</source>
-        <translation>Ändra bakgrundsbild</translation>
+        <translation>Inställning för systemets bakgrundsbild</translation>
     </message>
 </context>
 </TS>

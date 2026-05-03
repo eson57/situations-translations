@@ -25,15 +25,15 @@
     </message>
     <message id="filename">
         <source>Filename</source>
-        <translation type="unfinished">Filename</translation>
+        <translation>Filnamn</translation>
     </message>
     <message id="clear_log_query">
         <source>Are you sure you want to clear log?</source>
-        <translation type="unfinished">Are you sure you want to clear log?</translation>
+        <translation>Vill du verkligen rensa loggen?</translation>
     </message>
     <message id="copy_to_clipboard_done">
         <source>Copy to clipboard done</source>
-        <translation type="unfinished">Copy to clipboard done</translation>
+        <translation>Kopiering till urklipp slutförd</translation>
     </message>
 </context>
 </TS>

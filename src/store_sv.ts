@@ -1,6 +1,6 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sv_SE">
+<TS version="2.1" language="sv_SE">
 <context>
     <name></name>
     <message id="description">
@@ -9,7 +9,7 @@ Every day we change the behavior of our mobile devices to match different situat
 
 - Switch to silent during meetings
 - Have music player opened when connecting headphones
-- Extend phone's battery life when not in use
+- Extend phone&apos;s battery life when not in use
 - And much more!
 
 Situations helps you get rid of routine phone management tasks by doing them automatically for you.
@@ -35,7 +35,7 @@ Programmet innehåller en omfattande uppsättning standardfunktioner. Fler funkt
 
 På grund av programmets natur och dess omfång, kräver det en stor mängd behörigheter. Ingen användardata eller annan information samlas dock in av programmet, i någon form. Se vår integritetspolicy för mer information.
 
-Den här språkversionen av programmet tillhandahålles av https://svenskasprakfiler.se/.
+Den här språkversionen av programmet tillhandahålles av Åke Engelbrektson (@eson).
 Notera att allt eftersom programmet utvecklas, kanske delar av det inte alltid är översatt, vid varje enskilt tillfälle.
         </translation>
     </message>
