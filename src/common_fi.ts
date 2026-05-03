@@ -3,6 +3,10 @@
 <TS version="2.1" language="fi_FI">
 <context>
     <name></name>
+    <message id="as_root">
+        <source>As root user</source>
+        <translation>Pääkäyttäjänä</translation>
+    </message>
     <message id="at_end">
         <source>At situation end</source>
         <translation>Tilanteen päättyessä</translation>

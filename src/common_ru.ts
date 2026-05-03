@@ -3,6 +3,10 @@
 <TS version="2.1" language="ru_RU">
 <context>
     <name></name>
+    <message id="as_root">
+        <source>As root user</source>
+        <translation type="unfinished">As root user</translation>
+    </message>
     <message id="at_end">
         <source>At situation end</source>
         <translation type="unfinished">At situation end</translation>
