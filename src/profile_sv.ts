@@ -9,7 +9,7 @@
     </message>
     <message id="profile_description">
         <source>Active profile</source>
-        <translation type="unfinished">Active profile</translation>
+        <translation>Aktiv profil</translation>
     </message>
     <message id="profile_silent">
         <source>Silent</source>

@@ -9,7 +9,7 @@
     </message>
     <message id="mobilenetwork_description">
         <source>Mobile network setting</source>
-        <translation>Mobilnätverk på/av</translation>
+        <translation>Mobilnätverksinställning</translation>
     </message>
     <message id="mobilenetwork_dual">
         <source>Dual</source>

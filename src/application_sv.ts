@@ -5,7 +5,7 @@
     <name></name>
     <message id="situation_edit">
         <source>Edit situation</source>
-        <translation type="unfinished">Edit situation</translation>
+        <translation>Redigera situation</translation>
     </message>
     <message id="export">
         <source>Export</source>
@@ -105,7 +105,7 @@ Situations använder den insamlade platsinformationen lokalt och endast för att
     </message>
     <message id="permission_query_default_assistant">
         <source>To use this feature, Situations must be selected as the default Assistant application in system settings.</source>
-        <translation type="unfinished">To use this feature, Situations must be selected as the default Assistant application in system settings.</translation>
+        <translation>För att använda denna funktion måste Situations väljas som standardassistent i systeminställningarna.</translation>
     </message>
     <message id="permission_query_can_draw_overlay">
         <source>Please allow Situations to display over other apps.</source>
@@ -117,7 +117,7 @@ Situations använder den insamlade platsinformationen lokalt och endast för att
     </message>
     <message id="permission_query_location_services">
         <source>To use this feature, location services must be enabled in system settings.</source>
-        <translation type="unfinished">To use this feature, location services must be enabled in system settings.</translation>
+        <translation>För att använda denna funktion måste platstjänster vara aktiverat i systeminställningarna.</translation>
     </message>
     <message id="category_timelocation">
         <source>Time and Location</source>
@@ -145,7 +145,7 @@ Situations använder den insamlade platsinformationen lokalt och endast för att
     </message>
     <message id="select_icon">
         <source>Select icon</source>
-        <translation type="unfinished">Select icon</translation>
+        <translation>Välj ikon</translation>
     </message>
     <message id="timeout">
         <source>Timeout</source>
@@ -207,7 +207,7 @@ appen!</translation>
     </message>
     <message id="application_locale">
         <source>Locale</source>
-        <translation type="unfinished">Locale</translation>
+        <translation>Plats</translation>
     </message>
     <message id="settings">
         <source>Settings</source>
@@ -243,11 +243,11 @@ appen!</translation>
     </message>
     <message id="clone">
         <source>Clone</source>
-        <translation type="unfinished">Clone</translation>
+        <translation>Klona</translation>
     </message>
     <message id="remove">
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Ta bort</translation>
     </message>
     <message id="situation_home">
         <source>At home</source>
@@ -323,183 +323,183 @@ appen!</translation>
     </message>
     <message id="locale_system">
         <source>System</source>
-        <translation type="unfinished">System</translation>
+        <translation>System</translation>
     </message>
     <message id="plugin_settings">
         <source>%1 Settings</source>
-        <translation type="unfinished">%1 Settings</translation>
+        <translation>%1 Inställningar</translation>
     </message>
     <message id="uninstall_feature">
         <source>Are you sure to uninstall feature: %1?</source>
-        <translation type="unfinished">Are you sure to uninstall feature %1?</translation>
+        <translation>Vill du verkligen avinstallera funktionen %1?</translation>
     </message>
     <message id="uninstall">
         <source>Uninstall</source>
-        <translation type="unfinished">Uninstall</translation>
+        <translation>Avainstallera</translation>
     </message>
     <message id="remove_situation">
         <source>Are you sure to remove situation: %1?</source>
-        <translation type="unfinished">Are you sure to remove situation: %1?</translation>
+        <translation>Vill du verkligen ta bort situation: %1?</translation>
     </message>
     <message id="remove_condition">
         <source>Are you sure to remove condition: %1?</source>
-        <translation type="unfinished">Are you sure to remove condition: %1?</translation>
+        <translation>Vill du verkligen ta bort villkoret: %1?</translation>
     </message>
     <message id="remove_action">
         <source>Are you sure to remove action: %1?</source>
-        <translation type="unfinished">Are you sure to remove action: %1?</translation>
+        <translation>Vill du verkligen ta bort åtgärden: %1?</translation>
     </message>
     <message id="name">
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Namn</translation>
     </message>
     <message id="situation_automatic">
         <source>Automatic</source>
-        <translation type="unfinished">Automatic</translation>
+        <translation>Automatisk</translation>
     </message>
     <message id="situation_manual">
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>Manuell</translation>
     </message>
     <message id="situation_timed">
         <source>Timed</source>
-        <translation type="unfinished">Timed</translation>
+        <translation>Tidsinställd</translation>
     </message>
     <message id="situation_mode">
         <source>Select mode</source>
-        <translation type="unfinished">Select mode</translation>
+        <translation>Välj läge</translation>
     </message>
     <message id="permissions_note">
         <source>Some required permissions are not granted:</source>
-        <translation type="unfinished">Some required permissions are not granted:</translation>
+        <translation>Vissa nödvändiga behörigheter är inte beviljade:</translation>
     </message>
     <message id="situation_clone">
         <source>%1 (Copy)</source>
-        <translation type="unfinished">%1 (Copy)</translation>
+        <translation>%1 (Kopia)</translation>
     </message>
     <message id="done">
         <source>Done</source>
-        <translation type="unfinished">Done</translation>
+        <translation>Klart</translation>
     </message>
     <message id="importing">
         <source>Importing</source>
-        <translation type="unfinished">Importing</translation>
+        <translation>Import</translation>
     </message>
     <message id="exporting">
         <source>Exporting</source>
-        <translation type="unfinished">Exporting</translation>
+        <translation>Export</translation>
     </message>
     <message id="icon">
         <source>Icon</source>
-        <translation type="unfinished">Icon</translation>
+        <translation>Ikon</translation>
     </message>
     <message id="delay_milliseconds">
         <source>Delay (ms)</source>
-        <translation type="unfinished">Delay (ms)</translation>
+        <translation>Fördröjning (ms)</translation>
     </message>
     <message id="clear">
         <source>Clear</source>
-        <translation type="unfinished">Clear</translation>
+        <translation>Rensa</translation>
     </message>
     <message id="icon_number">
         <source>Icon %1</source>
-        <translation type="unfinished">Icon %1</translation>
+        <translation>Ikon %1</translation>
     </message>
     <message id="install_plugin">
         <source>Install %1</source>
-        <translation type="unfinished">Install %1</translation>
+        <translation>Installera %1</translation>
     </message>
     <message id="uninstall_plugin">
         <source>Uninstall %1</source>
-        <translation type="unfinished">Uninstall %1</translation>
+        <translation>Avinstallera %1</translation>
     </message>
     <message id="purchase_plugin_price">
         <source>Purchase %1 %2</source>
-        <translation type="unfinished">Purchase %1 %2</translation>
+        <translation>Köp %1 %2</translation>
     </message>
     <message id="plugin_item_number">
         <source>%1 item %2</source>
-        <translation type="unfinished">%1 item %2</translation>
+        <translation>%1 objekt %2</translation>
     </message>
     <message id="action_add">
         <source>Add action</source>
-        <translation type="unfinished">Add action</translation>
+        <translation>Lägg till åtgärd</translation>
     </message>
     <message id="condition_add">
         <source>Add condition</source>
-        <translation type="unfinished">Add condition</translation>
+        <translation>Lägg till villkor</translation>
     </message>
     <message id="back">
         <source>Back</source>
-        <translation type="unfinished">Back</translation>
+        <translation>Tillbaka</translation>
     </message>
     <message id="menu">
         <source>Menu</source>
-        <translation type="unfinished">Menu</translation>
+        <translation>Meny</translation>
     </message>
     <message id="situation_activate">
         <source>Activate situation</source>
-        <translation type="unfinished">Activate situation</translation>
+        <translation>Aktivera situation</translation>
     </message>
     <message id="situation_deactivate">
         <source>Deactivate situation</source>
-        <translation type="unfinished">Deactivate situation</translation>
+        <translation>Avaktivera situation</translation>
     </message>
     <message id="situation_settings">
         <source>Situation settings</source>
-        <translation type="unfinished">Situation settings</translation>
+        <translation>Situationsinställningar</translation>
     </message>
     <message id="situation_add">
         <source>Add situation</source>
-        <translation type="unfinished">Add situation</translation>
+        <translation>Lägg till situation</translation>
     </message>
     <message id="welcome1_accessible">
         <source>Welcome to the Situations application!</source>
-        <translation type="unfinished">Welcome to the Situations application!</translation>
+        <translation>Välkommen till Situations-appen!</translation>
     </message>
     <message id="welcome2_accessible">
         <source>This application lets you automate your device behavior by defining Situations, i.e. What happens and When. With Situations you can for example ensure your phone is silent in meetings or at night. Or have your favorite music player open when connecting headphones.</source>
-        <translation type="unfinished">This application lets you automate your device behavior by defining Situations, i.e. What happens and When. With Situations you can for example ensure your phone is silent in meetings or at night. Or have your favorite music player open when connecting headphones.</translation>
+        <translation>Denna app låter dig automatisera din enhets beteende genom att definiera Situationer, det vill säga Vad som händer och När. Med Situationer kan du till exempel se till att din telefon är tyst under möten eller på natten. Eller att din favoritmusikspelare startas när du ansluter hörlurar.</translation>
     </message>
     <message id="welcome4_accessible">
         <source>Lets set up some default situations next. You can customize them later to better suit your individual needs.</source>
-        <translation type="unfinished">Lets set up some default situations next. You can customize them later to better suit your individual needs.</translation>
+        <translation>Låt oss ställa in några standardinställningar härnäst. Du kan anpassa dem senare, för att bättre passa dina individuella behov.</translation>
     </message>
     <message id="welcome5_accessible">
         <source>Choose your defaults</source>
-        <translation type="unfinished">Choose your defaults</translation>
+        <translation>Välj dina standardsituationer</translation>
     </message>
     <message id="welcome6_accessible">
         <source>Now you&apos;re all set up! We wish you happy situations!</source>
-        <translation type="unfinished">Now you&apos;re all set up! We wish you happy situations!</translation>
+        <translation>Nu är du redo! Vi önskar dig goda situationer!</translation>
     </message>
     <message id="close">
         <source>Close</source>
-        <translation type="unfinished">Close</translation>
+        <translation>Stäng</translation>
     </message>
     <message id="filter_milliseconds">
         <source>Filter (ms)</source>
-        <translation type="unfinished">Filter (ms)</translation>
+        <translation>Filtrera (ms)</translation>
     </message>
     <message id="note">
         <source>Note!</source>
-        <translation type="unfinished">Note!</translation>
+        <translation>Notera!</translation>
     </message>
     <message id="exit_description">
         <source>This will exit application UI.</source>
-        <translation type="unfinished">This will exit application UI.</translation>
+        <translation>Detta kommer att stänga appens användargränssnitt.</translation>
     </message>
     <message id="background_service">
         <source>Background service</source>
-        <translation type="unfinished">Background service</translation>
+        <translation>Bakgrundstjänst</translation>
     </message>
     <message id="daemon_install">
         <source>Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue. Restart the application or device if needed.</source>
-        <translation type="unfinished">Background service launcher needs to be installed. Please first allow installation of unstrusted software in device settings and then continue. Restart the application or device if needed.</translation>
+        <translation>Bakgrundstjänst behöver installeras. Tillåt först installation av &quot;Ej betrodda program&quot; i enhetsinställningarna och fortsätt sedan. Starta om appen eller enheten vid behov.</translation>
     </message>
     <message id="daemon_install_warning">
         <source>WARNING: Background service will run with root privileges. Proceed at your own risk!</source>
-        <translation type="unfinished">WARNING: Background service will run with root privileges. Proceed at your own risk!</translation>
+        <translation>VARNING! Bakgrundstjänsten kommer att köras med root-privilegier. Fortsätt på egen risk!</translation>
     </message>
 </context>
 </TS>

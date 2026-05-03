@@ -9,7 +9,7 @@
     </message>
     <message id="battery_description">
         <source>Battery level</source>
-        <translation type="unfinished">Battery level</translation>
+        <translation>Batterinivå</translation>
     </message>
 </context>
 </TS>

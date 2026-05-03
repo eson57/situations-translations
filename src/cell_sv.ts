@@ -9,11 +9,11 @@
     </message>
     <message id="cell_description">
         <source>Simple mobile network cell detection</source>
-        <translation type="unfinished">Simple mobile network cell detection</translation>
+        <translation>Enkel mobil basstationsupptäckt</translation>
     </message>
     <message id="cell_area_name">
         <source>Area name</source>
-        <translation>Område</translation>
+        <translation>Områdesnamn</translation>
     </message>
     <message id="cell_count" numerus="yes">
         <source>%n cell(s)</source>

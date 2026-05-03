@@ -9,7 +9,7 @@
     </message>
     <message id="sync_description">
         <source>Account synchronization setting</source>
-        <translation>Synkroniseringsväxlare</translation>
+        <translation>Kontosynkroniseringsinställning</translation>
     </message>
 </context>
 </TS>

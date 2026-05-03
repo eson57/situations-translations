@@ -9,11 +9,11 @@
     </message>
     <message id="launch_description">
         <source>Open selected application</source>
-        <translation type="unfinished">Open selected application</translation>
+        <translation>Starta vald app</translation>
     </message>
     <message id="launch_select_application">
         <source>Select application</source>
-        <translation>Välj program</translation>
+        <translation>Välj app</translation>
     </message>
 </context>
 </TS>

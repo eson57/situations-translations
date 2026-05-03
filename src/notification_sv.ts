@@ -17,7 +17,7 @@
     </message>
     <message id="notification_package_placeholder">
         <source>Any</source>
-        <translation>Något</translation>
+        <translation>Alla</translation>
     </message>
     <message id="notification_keyword">
         <source>Keyword</source>

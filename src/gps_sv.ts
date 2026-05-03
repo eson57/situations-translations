@@ -9,7 +9,7 @@
     </message>
     <message id="gps_description">
         <source>GPS setting</source>
-        <translation>GPS-inställningar</translation>
+        <translation>GPS-inställning</translation>
     </message>
 </context>
 </TS>

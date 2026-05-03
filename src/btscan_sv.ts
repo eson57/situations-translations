@@ -9,7 +9,7 @@
     </message>
     <message id="btscan_description">
         <source>Simple nearby Bluetooth device detection</source>
-        <translation type="unfinished">Simple nearby bluetooth device detection</translation>
+        <translation>Enkel upptäckt av närliggande Bluetooth-enheter</translation>
     </message>
     <message id="btscanpro_name">
         <source>Bluetooth Devices Pro</source>
@@ -17,7 +17,7 @@
     </message>
     <message id="btscanpro_description">
         <source>Advanced nearby Bluetooth device detection with address based search and scan interval selection</source>
-        <translation type="unfinished">Advanced nearby Bluetooth device detection with address based search and scan interval selection</translation>
+        <translation>Avancerad upptäckt av närliggande Bluetooth-enheter med adressbaserat val av sök- och skanningsintervall</translation>
     </message>
     <message id="btscan_connection_name">
         <source>Device name</source>

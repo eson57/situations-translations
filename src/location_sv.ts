@@ -25,17 +25,17 @@
     </message>
     <message id="location_interval">
         <source>Update interval</source>
-        <translation type="unfinished">Update interval</translation>
+        <translation>Uppdateringsintervall</translation>
     </message>
     <message id="location_get_current">
         <source>Get current location</source>
-        <translation type="unfinished">Get current location</translation>
+        <translation>Hämta aktuell plats</translation>
     </message>
     <message id="location_interval_minutes" numerus="yes">
         <source>%n minute(s)</source>
-        <translation type="unfinished">
-            <numerusform>%n minute</numerusform>
-            <numerusform>%n minutes</numerusform>
+        <translation>
+            <numerusform>%n minut</numerusform>
+            <numerusform>%n minuter</numerusform>
         </translation>
     </message>
     <message id="location_disabled">

@@ -13,11 +13,11 @@
     </message>
     <message id="notification_title_launch">
         <source>Launch application:</source>
-        <translation>Starta program:</translation>
+        <translation>Starta app:</translation>
     </message>
     <message id="notification_title_url">
         <source>Open URL:</source>
-        <translation type="unfinished">Open URL:</translation>
+        <translation>Öppna URL:</translation>
     </message>
     <message id="situation_name_separator">
         <source>, </source>

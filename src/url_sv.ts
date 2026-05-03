@@ -9,11 +9,11 @@
     </message>
     <message id="url_description">
         <source>Open URL in a browser</source>
-        <translation type="unfinished">Open URL in a browser</translation>
+        <translation>Öppna URL i en webbläsare</translation>
     </message>
     <message id="url">
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
 </context>
 </TS>

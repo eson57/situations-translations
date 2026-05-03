@@ -9,11 +9,11 @@
     </message>
     <message id="close_description">
         <source>Close open application if possible</source>
-        <translation type="unfinished">Close open application if possible</translation>
+        <translation>Stäng öppen app om möjligt</translation>
     </message>
     <message id="close_select_application">
         <source>Select application</source>
-        <translation>Välj program</translation>
+        <translation>Välj app</translation>
     </message>
 </context>
 </TS>
